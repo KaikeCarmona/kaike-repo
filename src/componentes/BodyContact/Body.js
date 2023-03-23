@@ -10,7 +10,7 @@ export default function ContactBody() {
       <h1 className="contact-us">Contact Us</h1>
       <div className="contact-box">
         <form
-          action="https://formsubmit.co/kkaike371@gmail.com"
+          action="https://formsubmit.co/01735b16e61c47e11f247f2fcd016d26"
           method="POST"
           className="contact-box-email"
         >
